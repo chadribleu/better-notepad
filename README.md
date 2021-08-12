@@ -4,6 +4,6 @@ features like:
 </br>-Text formatting
 </br>-Live font change preview
 </br>-Toolbars
-</br>Modern theme and custom theme support.
+</br>-Modern theme and custom theme support.
 ## Installation
 The source code is actually totally broken, don't expect it to work as now.
