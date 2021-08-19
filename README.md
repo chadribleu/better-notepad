@@ -1,9 +1,10 @@
-# Notepad with toolbars pre-alpha
-Notepad with toolbar is a simple Notepad-like app created with Qt 6. It has more advanced</br>
-features like:
-</br>-Text formatting
-</br>-Live font change preview
-</br>-Toolbars
-</br>-Modern theme and custom theme support.
-## Installation
-The source code is actually totally broken, don't expect it to work as now.
+# Notepad with toolbar
+Notepad with toolbar is a simple Notepad-like app created with [**Qt 6**](https://www.qt.io/). It has more advanced features, such as :
+- Text formatting
+- Live font change preview
+- Toolbars
+- Modern theme and custom theme support.
+
+
+## Installation tutorial
+[TO ADD]
