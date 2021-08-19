@@ -7,7 +7,7 @@
 
 This software is **open-source**, meaning that everyone can contribute for making this project the best as possible.
 
-## Useful software
+## Useful softwares
 Here is a list of softwares that helped me to realize this project, I am greatful for them.
 - [Qt](https://qt.io/)
 
