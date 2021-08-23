@@ -43,6 +43,5 @@ QIcon resources::icon::Get(resources::icon::ID icon, QString *icons_path, QStrin
     };
 
     QString ico_path = icon_list.value(icon);
-    qDebug() << "path:" << ico_path;
     return QIcon(ico_path);
 }
